@@ -1,5 +1,5 @@
 .idea/
-/Dataset
+/Fenerbahce Statistics
 .ipynb_checkpoints
 fenerbahce_beko.csv
 fenerbahce_beko_cleaned.csv
@@ -7,3 +7,5 @@ fenerbahce_beko_cleaned.csv
 /Texts-JSON
 fenerbahce_beko_news.json
 fenerbahce_beko_news_cleaned.json
+fenerbahce_beko_news_all.csv
+fenerbahce_beko_news_all_cleaned.csv
